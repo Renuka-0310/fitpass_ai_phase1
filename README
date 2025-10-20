@@ -23,7 +23,7 @@ This repository contains the foundational codebase for Phase 1, focusing on core
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/kenule-619/fitpass_ai_phase1.git
+git clone https://github.com/Renuka-0310/fitpass_ai_phase1.git
 cd fitpass_ai_phase1
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
