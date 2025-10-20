@@ -1,0 +1,30 @@
+# FitPass AI — Phase 1
+
+Welcome to the Phase 1 development of **FitPass AI**, a smart fitness tracking and recommendation system powered by artificial intelligence.
+
+## 🚀 Project Overview
+
+FitPass AI aims to revolutionize personal fitness by providing:
+- Intelligent workout recommendations
+- Real-time progress tracking
+- Personalized fitness goals based on user data
+
+This repository contains the foundational codebase for Phase 1, focusing on core architecture, data ingestion, and initial model development.
+
+## 🛠️ Tech Stack
+
+- Python 3.10+
+- FastAPI
+- PostgreSQL
+- Docker
+- GitHub Actions (CI/CD)
+- Machine Learning: scikit-learn, TensorFlow (planned)
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/kenule-619/fitpass_ai_phase1.git
+cd fitpass_ai_phase1
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
